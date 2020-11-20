@@ -43,7 +43,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../作业一（2-21）" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go" />
   </component>
   <component name="RunManager" selected="Go Build.go build hellozcy.go">
